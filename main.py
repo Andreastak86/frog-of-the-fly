@@ -20,7 +20,7 @@ game_state = "playing"
 frog_x = WIDTH // 2
 frog_y = HEIGHT // 2
 frog_radius = 30
-frog_speed = 3
+frog_speed = 5
 
 # Vi lager Fredrik tha Flue
 fly_x = random.randint(30, WIDTH - 30)
